@@ -5,8 +5,8 @@ This repository contains the codes used in undergraduate final project "Prototyp
 ### Usage
 The requirements to run the codes are as follows:
 * Python 3.5
-* PyQt4 (untuk Spyder)
-* SciPy (NumPy, SciPy, IPython, Matplotlib, dan Scikit-Learn)
+* PyQt4 (for Spyder)
+* SciPy (NumPy, SciPy, IPython, Matplotlib, and Scikit-Learn)
 * Spyder
 
 The datasets used for prototyping the system belong to Bakardjian et al. (2010) (http://www.bakardjian.com/work/ssvep_data_Bakardjian.html) and AVI SSVEP Dataset (http://www.setzner.com). As for the testing data collected using OpenBCI V3, they can be found within this repository.
