@@ -9,6 +9,18 @@ The requirements to run the codes are as follows:
 * SciPy (NumPy, SciPy, IPython, Matplotlib, and Scikit-Learn)
 * Spyder
 
+### Testing Environment
+The codes are last tested with Anaconda 2.5.0 and following package versions:
+* Python 3.5.1
+* SciPy 0.17.0
+* Spyder 2.3.8
+* NumPy 1.10.4
+* IPython 4.0.3
+* Matplotlib 1.5.1
+* Scikit-Learn 0.17.1
+* PyQt 4.11.4
+It should be noted that some files (e.g. classifier pickle files) may be incompatible with different version of the packages, and as such, they may need to be re-compiled.
+
 The datasets used for prototyping the system belong to Bakardjian et al. (2010) (http://www.bakardjian.com/work/ssvep_data_Bakardjian.html) and AVI SSVEP Dataset (http://www.setzner.com). As for the testing data collected using OpenBCI V3, they can be found within this repository.
 
 ### Permission and License
