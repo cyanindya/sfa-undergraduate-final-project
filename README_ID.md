@@ -9,6 +9,18 @@ Untuk menjalankan program ini diperlukan perangkat-perangkat berikut:
 * SciPy (NumPy, SciPy, IPython, Matplotlib, dan Scikit-Learn)
 * Spyder
 
+### Lingkungan Pengujian
+*Source code* pada *repository* ini terakhir diuji menggunakan *package* dengan versi-versi berikut:
+* Python 3.5.1
+* SciPy 0.17.0
+* Spyder 2.3.8
+* NumPy 1.10.4
+* IPython 4.0.3
+* Matplotlib 1.5.1
+* Scikit-Learn 0.17.1
+* PyQt 4.11.4
+Hal yang harus diperhatikan adalah beberapa *file* (seperti *pickle file*) mungkin tidak akan kompatibel dengan versi *package* yang berbeda sehingga harus di-*compile* ulang.
+
 *Dataset* yang digunakan untuk *prototyping* program ini berasal dari penelitian oleh Bakardjian dkk. (2010) (http://www.bakardjian.com/work/ssvep_data_Bakardjian.html) dan AVI SSVEP Dataset (http://www.setzner.com). *Dataset* pengujian yang diambil menggunakan sistem OpenBCI V3 dapat diunduh dari *repository* ini.
 
 ### Izin dan Lisensi
