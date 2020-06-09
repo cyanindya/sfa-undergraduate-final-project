@@ -1,4 +1,4 @@
-# tugas-akhir
+# Git repository for Sinantya F. Anindya's undergraduate program final project (2016)
 ### Description
 This repository contains the codes used in undergraduate final project "Prototype of EEG-based Home Appliances Control System" *("Prototipe Sistem Kendali Peralatan Rumah Berbasis Elektroensefalogram")* by Sinantya F. Anindya, which was conducted in February-June 2016 in Department of Electrical Engineering, Institut Teknologi Nasional, Bandung. The codes are written in Python.
 
